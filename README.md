@@ -1,5 +1,8 @@
 # Image-Handling-and-Pixel-Transformations-Using-OpenCV
 
+## Developed by: Chidroop M J
+## Registered number: 212225240029
+
 ## AIM:
 Write a Python program using OpenCV that performs the following tasks:
 
@@ -222,10 +225,52 @@ plt.axis("off")
 ```
 
 ## Output:
-- **i)** Read and Display an Image.  
-- **ii)** Adjust Image Brightness.  
-- **iii)** Modify Image Contrast.  
-- **iv)** Generate Third Image Using Bitwise Operations.
+### Original Image:
+<img width="365" height="411" alt="image" src="https://github.com/user-attachments/assets/6eb71699-9279-4e6b-8cf1-e2e4539c40ab" />
+
+
+### Image with Line:
+<img width="365" height="411" alt="image" src="https://github.com/user-attachments/assets/7dfe76fd-eae2-4f7e-b3c6-6e6a09d620e4" />
+
+### Image with Circle:
+<img width="365" height="411" alt="image" src="https://github.com/user-attachments/assets/83bf3daf-f5f0-4542-b3ff-7adf2bcd8236" />
+
+### Image with Rectangle:
+<img width="365" height="411" alt="image" src="https://github.com/user-attachments/assets/b1cbddbe-75fc-48a6-a6ea-1541c313e4f1" />
+
+### Image with Text:
+<img width="365" height="411" alt="image" src="https://github.com/user-attachments/assets/0d0fe2b9-b8a8-43fe-94cd-12e26e090b51" />
+
+### Original RGB Image:
+<img width="365" height="411" alt="image" src="https://github.com/user-attachments/assets/0ecb276e-4166-418c-94fb-a92618b8dcc5" />
+
+### HSV Image:
+<img width="365" height="411" alt="image" src="https://github.com/user-attachments/assets/2f2c6fc1-8fde-4b20-aec2-b61d91132523" />
+
+### Grayscale image:
+<img width="365" height="411" alt="image" src="https://github.com/user-attachments/assets/08bf6b91-c2ca-4b29-b9bf-18b0cf37eee3" />
+
+### YCrCb image:
+<img width="365" height="411" alt="image" src="https://github.com/user-attachments/assets/edd939c0-535d-4f9e-9f75-1bca8af7e393" />
+
+### HSV to RGB image:
+<img width="365" height="411" alt="image" src="https://github.com/user-attachments/assets/d4e565e4-9d4d-4656-92f8-53b9e9e175e3" />
+
+### Image with 300 x 300 white block:
+<img width="365" height="411" alt="image" src="https://github.com/user-attachments/assets/ea38f2f7-935a-4439-a8a6-250fadeb9df2" />
+
+### Resized half-size image:
+<img width="493" height="411" alt="image" src="https://github.com/user-attachments/assets/8f964d43-4c79-4840-8808-9352497333c0" />
+
+### Cropped Region of interest (ROI):
+<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/d6888cc3-2a97-48d8-90fb-9872c827216f" />
+
+### Flipped Horrizontally:
+<img width="365" height="411" alt="image" src="https://github.com/user-attachments/assets/10db1094-1751-4ed1-85d5-fdbdad22a332" />
+
+### Flipped vertically:
+<img width="365" height="411" alt="image" src="https://github.com/user-attachments/assets/598127cf-0be0-4f8f-88e2-38a149775ccc" />
+
 
 ## Result:
 Thus, the images were read, displayed, brightness and contrast adjustments were made, and bitwise operations were performed successfully using the Python program.
